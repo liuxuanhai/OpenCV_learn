@@ -6,7 +6,8 @@
 >pip install pytesseract
 
 #### 二、课程内容
-1.第一节课
+
+#### 1.第一节课
 
 知识点小结：
 
@@ -29,9 +30,9 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 ```
 
-2.第二节课
+#### 2.第二节课
 
-#### 知识点小结：
+ 知识点小结：
 
 * 打开本机摄像头：cv.VideoCapture(0)
 * 翻转摄像头：cv.flip(frame, 1)
