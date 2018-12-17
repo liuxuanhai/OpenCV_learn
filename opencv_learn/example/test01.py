@@ -6,6 +6,8 @@
 """
 
 import cv2 as cv
+import numpy as np
+import pandas as pd
 
 src = cv.imread("../pictures/reba.jpg")
 
